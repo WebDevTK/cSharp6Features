@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
 using static cSharp6Features.MyStaticClass;
-using System.Net.Http;
 using System.Threading;
 
 namespace cSharp6Features
@@ -49,9 +46,7 @@ namespace cSharp6Features
 
             WriteLine($"I am {firstName} {lastName} from India.");
 
-            DoSomething("Hi");
-
-
+            DoSomething("Hi"); 
             WriteLine("Multiplication Result : "+MultiplyNumbers(100, 100));
 
             //Exception filters
@@ -81,8 +76,7 @@ namespace cSharp6Features
             WriteLine(customer?.Name ?? "customer name is null.");
 
             Task.Factory.StartNew(() => Div(12, 0)); // Async Await support in finally n catch block
-
-
+             
             ReadLine();
             ReadLine();
         }
@@ -90,8 +84,7 @@ namespace cSharp6Features
         public static void DoSomething(string newName) //Name of 
         {
             if (newName == null) throw new Exception(nameof(newName) + " is null");
-        }
-
+        } 
     }
 
     static class MyStaticClass
@@ -136,7 +129,5 @@ namespace cSharp6Features
 
         public string Name { get; set; } = "";
         public int Age { get; } = 18; // No setter Required
-    }
-
-
+    } 
 }

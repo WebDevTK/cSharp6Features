@@ -4,3 +4,6 @@ c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\cSharp6Featur
 c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\cSharp6Features\cSharp6Features\obj\Debug\cSharp6Features.csprojResolveAssemblyReference.cache
 c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\cSharp6Features\cSharp6Features\obj\Debug\cSharp6Features.exe
 c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\cSharp6Features\cSharp6Features\obj\Debug\cSharp6Features.pdb
+D:\MyGit\cSharp6Features\cSharp6Features\bin\Debug\cSharp6Features.exe.config
+D:\MyGit\cSharp6Features\cSharp6Features\obj\Debug\cSharp6Features.exe
+D:\MyGit\cSharp6Features\cSharp6Features\obj\Debug\cSharp6Features.pdb
