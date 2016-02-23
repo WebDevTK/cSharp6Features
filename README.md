@@ -1,6 +1,7 @@
 # cSharp6Features
 
- 
+C# 6.0  programming language was introduced when Visual Studio 2015 was recently released. I have used .Net Framework 6.0 to implement this demo console app.
+
 1. using Static.
 2. Auto property initializer.
 3. Dictionary Initializer.
