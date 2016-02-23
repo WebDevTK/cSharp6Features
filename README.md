@@ -13,8 +13,6 @@ C# 6.0  programming language was introduced when Visual Studio 2015 was recently
 8. Expression – Bodied Methods
 9. Easily format strings – String interpolation 
          
-Partial modules	
-        Partial Module M1 
-Partial interfaces
-        Partial Interface I1
+Partial module - Partial Module M1 
+Partial interfaces -Partial Interface I1
 Improved overload resolution
