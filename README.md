@@ -1,6 +1,6 @@
 # cSharp6Features
 
-C# 6.0  programming language was introduced when Visual Studio 2015 was recently released. I have used .Net Framework 6.0 to implement this demo console app. Microsoft has announced some new keywords and some new behavior of C# 6.0 in Visual Studio 2015
+C# 6.0  programming language was introduced when Visual Studio 2015 was recently released. I have used .Net Framework 4.6 to implement this demo console app. Microsoft has announced some new keywords and some new behavior of C# 6.0 in Visual Studio 2015
 
 
 1. using Static.
